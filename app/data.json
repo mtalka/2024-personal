@@ -1,0 +1,210 @@
+{
+    "workExperience": [
+      {
+        "company": "Columbia Road",
+        "positions": [
+          {
+            "title": "Senior Consultant",
+            "employmentType": "Full-time",
+            "duration": "Jan 2023 - Present",
+            "location": "Helsinki, Uusimaa, Finland",
+            "responsibilities": [
+              "Full-stack development"
+            ],
+            "skills": [
+              "Software Development",
+              "IT Project Leadership",
+              "+3 other skills"
+            ]
+          },
+          {
+            "title": "Consultant",
+            "employmentType": "Full-time",
+            "duration": "Aug 2021 - Jan 2023",
+            "location": "Helsinki, Southern Finland, Finland",
+            "responsibilities": [
+              "Full-stack development"
+            ]
+          }
+        ],
+        "totalDuration": "3 yrs 1 mo"
+      },
+      {
+        "company": "Fellowmind",
+        "positions": [
+          {
+            "title": "Software Developer",
+            "employmentType": "Full-time",
+            "duration": "Mar 2019 - Jul 2021",
+            "location": "Espoo, Southern Finland, Finland",
+            "responsibilities": [
+              "Working as a software developer in a development team",
+              "Programming progressive web applications in all stack layers, emphasis on front-end",
+              "Participating in project scope definition",
+              "Actively participating in customer interaction",
+              "Utilizing agile methods in project/development work execution"
+            ]
+          }
+        ],
+        "totalDuration": "2 yrs 5 mos"
+      },
+      {
+        "company": "Wärtsilä",
+        "positions": [
+          {
+            "title": "Solution Expert PDM/PLM",
+            "employmentType": "Full-time",
+            "duration": "Oct 2014 - Mar 2019",
+            "location": "Helsinki",
+            "responsibilities": [
+              "PDM/PLM development related duties",
+              "Project delivery management",
+              "Stakeholder communication",
+              "Creating solution proposals for enhancement requests",
+              "Managing ICT vendors and external partners",
+              "Integration and System testing",
+              "Working as project track lead in various software solution delivery projects",
+              "Utilizing agile methods in project delivery"
+            ],
+            "tools": [
+              "Teamcenter (Suite)",
+              "SAP ERP",
+              "NX CAD",
+              "ServiceNow Scrum tool",
+              "OnTime Project management suite"
+            ]
+          },
+          {
+            "title": "Trainee",
+            "employmentType": "Internship",
+            "duration": "May 2014 - Oct 2014",
+            "location": "Helsinki",
+            "responsibilities": [
+              "PDM/PLM related work",
+              "Testing coordination for the launch of Engineering Change Management solution"
+            ],
+            "tools": [
+              "Teamcenter (Siemens PLM)",
+              "SAP",
+              "Axosoft's OnTime project management tool"
+            ]
+          }
+        ],
+        "totalDuration": "4 yrs 11 mos"
+      },
+      {
+        "company": "ICT-Portti",
+        "positions": [
+          {
+            "title": "Project Worker, intern",
+            "employmentType": "Internship",
+            "duration": "Aug 2013 - Nov 2013",
+            "location": "Turku",
+            "responsibilities": [
+              "Web design (HTML5, jQuery)",
+              "Graphic design",
+              "Project management duties in various customer projects",
+              "Testing of solutions"
+            ]
+          }
+        ],
+        "totalDuration": "4 mos"
+      },
+      {
+        "company": "Municipality of Lieto",
+        "positions": [
+          {
+            "title": "Intern",
+            "employmentType": "Internship",
+            "duration": "Mar 2012 - Jun 2012",
+            "location": "Lieto",
+            "responsibilities": [
+              "IT end-user support",
+              "Software installations",
+              "Hardware installations",
+              "Server maintenance",
+              "Active Directory administration"
+            ]
+          }
+        ],
+        "totalDuration": "4 mos"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Turun yliopisto - University of Turku",
+        "degree": "Master of Science - MS",
+        "fieldOfStudy": "Information Technology",
+        "yearsAttended": "2018 - 2021",
+        "courses": [
+          "Software Design and Architecture",
+          "Advanced Programming Techniques",
+          "Practical Software Quality Management, Testing and Estimation",
+          "Software Development and Software Security",
+          "Privacy and Security for Software Systems",
+          "Lean Platform Business Design"
+        ]
+      },
+      {
+        "institution": "Turku University of Applied Sciences",
+        "degree": "Bachelor of Engineering (B.Eng.)",
+        "fieldOfStudy": "Information Technology",
+        "yearsAttended": "2010 - 2014",
+        "courses": [
+          "Usability and user interface design",
+          "IT product development",
+          "Software development (Basics of programming (Java), Logical structures, Database basics, Algorithms)",
+          "Augmented reality applications",
+          "CISCO CCNA 1 & 2, Network Fundamentals, Routing Protocols and Concepts",
+          "Linux web servers",
+          "Relational databases",
+          "Open source software",
+          "Human-Computer Interaction"
+        ],
+        "specialization": "Multimedia technology"
+      },
+      {
+        "institution": "Rangsit University",
+        "program": "Exchange Program",
+        "fieldOfStudy": "Rangsit International College (RIC)",
+        "yearsAttended": "2012",
+        "responsibilities": [
+          "Attending and contributing to the exchange program at Rangsit University International College in Bangkok, Thailand."
+        ]
+      },
+      {
+        "institution": "Liedon lukio",
+        "degree": "High school diploma",
+        "yearsAttended": "2005 - 2008"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Study of Universal Requirements for a Platformized Augmented Reality Solution for Maintenance Tasks in Heavy Industry",
+        "institution": "University of Turku",
+        "date": "Feb 25, 2021",
+        "type": "Master's thesis",
+        "link": "https://www.utupub.fi/handle/10024/151388"
+      },
+      {
+        "title": "Development of augmented reality visualisation solutions",
+        "institution": "Turku University of Applied Sciences",
+        "date": "Jun 5, 2014",
+        "type": "Bachelor's thesis"
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Professional Developer Certification 2021",
+        "institution": "Boomi",
+        "date": "Issued Aug 2021"
+      },
+      {
+        "title": "ITIL 2011 Foundation",
+        "institution": "APMG International",
+        "date": "Issued Apr 2015",
+        "credentialId": "2000140060"
+      }
+    ]
+  }
+  
