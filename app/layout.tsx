@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import "./globals.css";
 import Nav from "./components/nav";
 import { Public_Sans
@@ -10,8 +9,6 @@ const publicSans = Public_Sans
   weight: ['100','200','300','400', '700'],
   subsets: ['latin'],
 })
-
-const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Markus Talka",
