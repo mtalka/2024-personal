@@ -29,9 +29,23 @@ export default function Section({ titleElement, children }: SectionProps) {
           className={`absolute text-zinc-300 right-0 h-8 w-8 flex items-center justify-center transform transition-transform duration-300 ${
             isDropdownOpen ? "rotate-0" : "rotate-180"
           }`}
-        ><svg data-slot="icon" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5"></path>
-      </svg></div>
+        >
+          <svg
+            data-slot="icon"
+            fill="none"
+            stroke-width="1.5"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+            aria-hidden="true"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="m4.5 15.75 7.5-7.5 7.5 7.5"
+            ></path>
+          </svg>
+        </div>
       </header>
       {isDropdownOpen && <ul className="flex flex-col gap-2">{children}</ul>}
     </div>

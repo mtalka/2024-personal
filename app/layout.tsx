@@ -27,7 +27,7 @@ export default function RootLayout({
       >
         <header className="relative w-full flex justify-center">
           <h1 className="text-4xl z-10 font-bold">Markus Talka</h1>
-          <div className="absolute z-0 rotate-6 translate-y-2 w-40 h-8 bg-emerald-200 "></div>
+          <div className="absolute z-0 rotate-6 translate-y-2 w-40 h-8 bg-gradient-to-r from-emerald-200 to-cyan-200"></div>
         </header>
         <Nav />
         <main className="max-w-screen-xl">{children}</main>

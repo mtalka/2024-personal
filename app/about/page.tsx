@@ -3,9 +3,9 @@ export default function About() {
     <div className="max-w-96 flex flex-col gap-4">
       <header className="relative w-full flex justify-center">
         <h2 className="text-xl z-10 font-bold ">Briefly about me</h2>
-        <div className="absolute z-0 rotate-6 translate-y-2 w-24 h-4 bg-sky-200"></div>
+        <div className="absolute z-0 rotate-6 translate-y-2 w-24 h-4 bg-gradient-to-r from-sky-200 to-cyan-200"></div>
       </header>
-      <div className="flex flex-col gap-4 font-light">
+      <div className="flex flex-col gap-4 font-light text-justify">
         <p>
           Hello friend, welcome to my humble website. I am Markus Talka, a
           software developer and software industry professional, currently
