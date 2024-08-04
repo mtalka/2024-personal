@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Nav from "./components/nav";
-import { Public_Sans
+import { Outfit
 } from 'next/font/google'
  
-const publicSans = Public_Sans
+const outfit = Outfit
 ({
   weight: ['100','200','300','400', '700'],
   subsets: ['latin'],
@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${publicSans.className} flex min-h-screen flex-col items-center gap-8 p-4 pt-12 lg:p-24`}
+        className={`${outfit.className} flex min-h-screen flex-col items-center gap-8 p-4 pt-12 lg:p-24`}
       >
         <header className="relative w-full flex justify-center">
           <h1 className="text-4xl z-10 font-bold">Markus Talka</h1>
