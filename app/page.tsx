@@ -4,7 +4,7 @@ import workData from "./data.json";
 
 export default function Home() {
   return (
-    <div className="grid sm:grid-cols-2 xl:grid-cols-3 gap-4">
+    <div className="grid sm:grid-cols-2 xl:grid-cols-4 gap-4">
       <Section
         titleElement={
           <>
