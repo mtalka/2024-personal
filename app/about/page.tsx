@@ -10,7 +10,7 @@ export default function About() {
       <div className="flex flex-col gap-4 font-light text-justify">
         <p>
           Hello friend, welcome to my humble website. I am Markus Talka, a
-          software developer and software industry professional, currently
+          software developer and software industry professional,
           residing in Helsinki, Finland.
         </p>
         <p>

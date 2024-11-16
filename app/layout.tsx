@@ -12,7 +12,7 @@ const outfit = Outfit
 
 export const metadata: Metadata = {
   title: "Markus Talka",
-  description: "Welcome to Markus Talka's personal website. I am a software developer and software industry professional, currently residing in Helsinki, Finland.",
+  description: "Welcome to Markus Talka's personal website. I am a software developer and software industry professional, residing in Helsinki, Finland.",
 };
 
 export default function RootLayout({
