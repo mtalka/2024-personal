@@ -12,7 +12,6 @@ export default function Section({ titleElement, children }: SectionProps) {
         className="relative w-full flex justify-center"
       >
         {titleElement}
-        
       </header>
       <ul className="flex flex-col gap-2">{children}</ul>
     </div>
