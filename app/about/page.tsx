@@ -5,7 +5,7 @@ export default function About() {
     <div className="max-w-96 flex flex-col gap-4">
       <header className="relative w-full flex justify-center">
         <h2 className="text-xl z-10 font-bold ">Briefly about me</h2>
-        <div className="absolute z-0 rotate-6 translate-y-2 w-24 h-4 bg-gradient-to-r from-sky-200 to-cyan-200 dark:invert"></div>
+        <div className="absolute z-0 rotate-6 translate-y-2 w-24 h-4 bg-gradient-to-r from-sky-200 to-cyan-200 dark:from-sky-700 dark:to-cyan-700"></div>
       </header>
       <div className="flex flex-col gap-4 font-light text-justify">
         <p>
@@ -20,7 +20,7 @@ export default function About() {
       </div>
       <header className="mt-4 lg:mt-6 relative w-full flex justify-center">
         <h2 className="text-xl z-10 font-bold ">Socials</h2>
-        <div className="absolute z-0 rotate-6 translate-y-2 w-24 h-4 bg-gradient-to-r from-rose-200 to-teal-200 dark:invert"></div>
+        <div className="absolute z-0 rotate-6 translate-y-2 w-24 h-4 bg-gradient-to-r from-rose-200 to-teal-200 dark:from-rose-700 dark:to-teal-700"></div>
       </header>
       <div className="text-center">
         <ul>

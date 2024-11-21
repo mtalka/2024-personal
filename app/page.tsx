@@ -9,7 +9,7 @@ export default function Home() {
         titleElement={
           <>
             <h2 className="text-xl z-10 font-bold">Work</h2>
-            <div className="absolute z-0 rotate-6 translate-y-2 w-20 h-4 bg-gradient-to-r from-cyan-200 to-pink-200 dark:invert"></div>
+            <div className="absolute z-0 rotate-6 translate-y-2 w-20 h-4 bg-gradient-to-r from-cyan-200 to-pink-200 dark:from-cyan-700 dark:to-pink-700"></div>
           </>
         }
       >
@@ -48,7 +48,7 @@ export default function Home() {
         titleElement={
           <>
             <h2 className="text-xl z-10 font-bold">Education</h2>
-            <div className="absolute z-0 rotate-6 translate-y-2 w-20 h-4 bg-gradient-to-r from-pink-200 to-amber-200 dark:invert"></div>
+            <div className="absolute z-0 rotate-6 translate-y-2 w-20 h-4 bg-gradient-to-r from-pink-200 to-amber-200 dark:from-pink-700 dark:to-amber-700"></div>
           </>
         }
       >
@@ -69,7 +69,7 @@ export default function Home() {
         titleElement={
           <>
             <h2 className="text-xl z-10 font-bold">Publications</h2>
-            <div className="absolute z-0 rotate-6 translate-y-2 w-20 h-4 bg-gradient-to-r from-amber-200 to-lime-200 dark:invert"></div>
+            <div className="absolute z-0 rotate-6 translate-y-2 w-20 h-4 bg-gradient-to-r from-amber-200 to-lime-200 dark:from-amber-700 dark:to-lime-700"></div>
           </>
         }
       >
@@ -89,7 +89,7 @@ export default function Home() {
         titleElement={
           <>
             <h2 className="text-xl z-10 font-bold">Certificates</h2>
-            <div className="absolute z-0 rotate-6 translate-y-2 w-20 h-4 bg-gradient-to-r from-lime-200 to-sky-200 dark:invert"></div>
+            <div className="absolute z-0 rotate-6 translate-y-2 w-20 h-4 bg-gradient-to-r from-lime-200 to-sky-200 dark:from-lime-700 dark:to-sky-700"></div>
           </>
         }
       >
