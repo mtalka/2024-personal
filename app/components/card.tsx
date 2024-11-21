@@ -14,7 +14,7 @@ export default function Card({ title, subtitle, children }: CardProps) {
   return (
     <div
       id="card"
-      className={`shadow flex flex-col ${isOpen && "gap-4"} p-4 rounded-lg bg-white cursor-pointer hover:-translate-y-px hover:shadow transition-transform hover:bg-[#fafafa]`}
+      className={`shadow flex flex-col ${isOpen && "gap-4"} p-4 rounded-lg bg-white dark:bg-zinc-800 cursor-pointer hover:-translate-y-px hover:shadow transition-transform hover:bg-[#fafafa] dark:hover:bg-zinc-700`}
       onClick={() => setIsOpen(!isOpen)}
     >
       <div>
@@ -22,7 +22,7 @@ export default function Card({ title, subtitle, children }: CardProps) {
         {isOpen && (subtitle && <span className="text-sm">{subtitle}</span>)}
       </div>
       <div
-        className={`text-zinc-600 text-sm overflow-hidden transition-all duration-300 ease-in-out ${
+        className={`text-zinc-600 dark:text-zinc-300 text-sm overflow-hidden transition-all duration-300 ease-in-out ${
           isOpen ? "max-h-96 opacity-100" : "max-h-0 opacity-0"
         }`}
       >
