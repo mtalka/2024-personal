@@ -14,7 +14,7 @@ export default function Card({ title, subtitle, children }: CardProps) {
   return (
     <div
       id="card"
-      className={`shadow flex flex-col ${isOpen && "gap-4"} p-4 rounded-lg bg-white dark:bg-slate-800 cursor-pointer hover:-translate-y-px hover:shadow transition-transform hover:bg-[#fafafa] dark:hover:bg-slate-700`}
+      className={`shadow-sm border dark:border-none flex flex-col ${isOpen && "gap-4"} p-4 rounded-lg bg-white dark:bg-slate-800 cursor-pointer hover:-translate-y-px hover:shadow transition-transform hover:bg-[#fafafa] dark:hover:bg-slate-700`}
       onClick={() => setIsOpen(!isOpen)}
     >
       <div>
