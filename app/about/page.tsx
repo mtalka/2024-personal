@@ -48,10 +48,10 @@ export default function About() {
             <Link
               target="_blank"
               href="
-            https://threads.net/mtalka/
+            https://bsky.app/profile/markustalka.com
           "
             >
-              Threads
+              Bluesky
             </Link>
           </li>
           <li>
